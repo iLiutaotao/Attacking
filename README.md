@@ -34,6 +34,10 @@ Thanks
 + Android程序由:死焦炭<su@geekzh.com>开发完成
 + 服务端由[涛涛](https://www.liujiantao.me)开发完成
 
+License
+==
+GPLV3
+
 Warning
 ==
 此软件仅供学习交流为目的，切勿用于非法用途以及商业目的，请在下载后24小时之内删除！
