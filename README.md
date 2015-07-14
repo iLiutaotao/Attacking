@@ -21,8 +21,8 @@ Server
 
 Dowload
 ==
-+ Android:
-+ PHP:
++ Android:https://github.com/liujiantaoliu/hacker
++ PHP:https://github.com/liujiantaoliu/Attacking
 
 Usage
 ==
@@ -31,7 +31,7 @@ Usage
 
 Thanks
 ==
-+ Android程序由:死焦炭<su@geekzh.com>开发完成
++ Android程序由:[死焦炭](https://github.com/SinoReimu)<su@geekzh.com>开发完成
 + 服务端由[涛涛](https://www.liujiantao.me)开发完成
 
 License
